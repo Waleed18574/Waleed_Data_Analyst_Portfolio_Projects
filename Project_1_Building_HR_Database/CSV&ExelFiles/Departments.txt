@@ -1,0 +1,5 @@
+DEP_ID,DEP_NAME,MANAGER_ID,LOC_ID
+D01,CEO Office,E1001,L0001
+D02,Software  Architecture,E1002,L0002
+D03,Software Design,E1003,L0003
+D04,Software Development,E1004,L0004

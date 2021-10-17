@@ -1,0 +1,8 @@
+JOB_ID,JOB_TITLE,MIN_SALARY,MAX_SALARY
+J100,Sr. Lead Architect,90000,110000
+J200,Sr. Software Architect,80000,100000
+J300,Sr.Software Designer,75000,95000
+J400,Sr.Software Developer,75000,95000
+J500,Jr. Software Architect,50000,70000
+J600,Jr. Software Designer,45000,65000
+J650,Jr. Designer Developer,45000,65000
