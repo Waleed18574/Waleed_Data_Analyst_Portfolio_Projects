@@ -1,24 +1,23 @@
 # Building HR Database
-______
+
 ## Objective & Specification:
-\
+
 ### Objective:
   To design, implement, and query an HR database.
-\
+
 ### Data used:
   Hyposthesized data in 5 csv files that include the tables of Employees, Department, Jobs, Locations and Job_history.
-\
+
 ### Database Software:
   MS SQl Server.
-\
+
 ### Database Management Tool:
   SQL Server Management Studio.
-\
+
 ### Language:
   T-SQL
-\
-\
-\
+
+
 ## Tasks:
 In this project, I:
 - Designed an entity relationship schema using MS Excel.
@@ -28,9 +27,8 @@ In this project, I:
 - Established a database diagram inside SSMS.
 - Queried the database.
 - Exported the database into bak file.
-\
-\
-\
+
+
 ## Questions Answered Via Querying:
 The questions answered are:
 - What are the names, job titles, minimum and maximum salaries for each employee?.
