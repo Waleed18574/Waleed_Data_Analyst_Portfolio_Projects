@@ -8,6 +8,7 @@ I have received a business request from the Sales & Marketing Department in Parc
 ### Porject Stages
 1- __Data Collection__:
   Get the required dataset and upload it into MS SQL Server.
+  \
 2- __Data Preparation__:
   Transform the data as required and make sure it is ready for analysis.
 3- __Data Analysis__:
