@@ -27,3 +27,11 @@ __Database Management System__: MS SQL Server.
 __Database Management Tool__: SQL Server Management Studio.
 \
 __Programming Language__: T-SQL
+\
+
+### Business Request
+![](Images/Sales_&_Marketing_Business_Requests.PNG)
+
+
+
+## 
