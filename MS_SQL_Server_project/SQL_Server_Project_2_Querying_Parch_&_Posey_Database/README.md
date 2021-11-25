@@ -57,6 +57,7 @@ In this stage, I used T-SQL and MS SQL Server Management Studio to query the tab
 - CTE & Sub-queries.
 - Date, Math and Text Functions.
 - Window Functions.
+![](Images/Entity Relationship Diagram.PNG)
 
 ## Conveying of Findings
 In this stage, I forwarded the results of the anaysis as csv files to the Sales & Marketing Department.
