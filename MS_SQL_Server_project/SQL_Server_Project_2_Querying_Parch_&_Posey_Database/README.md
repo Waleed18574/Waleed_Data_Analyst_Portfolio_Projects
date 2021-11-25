@@ -64,9 +64,11 @@ In this stage, I forwarded the results of the anaysis as csv files to the Sales 
 In this stage, I documented the project by establishing the documentaion database *Business requests* which is dedicated to show and docuemnt each and every questionin every business request.
 \
 Project documentation is important for two reasons:
+\
 1- To ensure and emphasize the job responsibilities and roles.
+\
 2- To facilitate asnwering or automating the answering process if the main database is loaded incrementally and same question are asked regularly. For example, the data analyst can use SSIS to execute SQL Tasks that query the documentation database for certain questions and store the results in variables or flat file. Next, the data analyst can add a data flow tasks to query the main database using the results stored in a variable or flat files, then store the final results in a flat files. Next, the data analyst can add a system tasks to move the files into the desired location. This can be automated and scheduled to be executed regularly.
 
 
-![image](https://user-ima
+
 
