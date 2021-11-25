@@ -34,4 +34,9 @@ __Programming Language__: T-SQL
 
 
 
-## 
+## Data Collection:
+In this satge, I:
+- Established the database Parch & Posey and imported the 5 csv files into it using SSIS.
+- Examined the data within the SQL Server tables to make sure it it is as inten .
+
+## Data Preparation
