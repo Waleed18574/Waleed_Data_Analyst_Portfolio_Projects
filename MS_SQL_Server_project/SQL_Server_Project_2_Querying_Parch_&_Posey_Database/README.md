@@ -32,7 +32,7 @@ __Programming Language__: T-SQL
 
 
 ### Business Request
-![](Images/Sales_&_Marketing_Business_Requests.PNG)
+![](MS_SQL_Server_project/SQL_Server_Project_2_Querying_Parch_&_Posey_Database/Images/Entity Relationship Diagram.PNG)
 
 
 
@@ -57,8 +57,8 @@ In this stage, I used T-SQL and MS SQL Server Management Studio to query the tab
 - CTE & Sub-queries.
 - Date, Math and Text Functions.
 - Window Functions.
-- \
-![](Images/Entity Relationship Diagram.PNG)
+
+
 
 ## Conveying of Findings
 In this stage, I forwarded the results of the anaysis as csv files to the Sales & Marketing Department.
