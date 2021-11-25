@@ -57,6 +57,7 @@ In this stage, I used T-SQL and MS SQL Server Management Studio to query the tab
 - CTE & Sub-queries.
 - Date, Math and Text Functions.
 - Window Functions.
+- \
 ![](Images/Entity Relationship Diagram.PNG)
 
 ## Conveying of Findings
