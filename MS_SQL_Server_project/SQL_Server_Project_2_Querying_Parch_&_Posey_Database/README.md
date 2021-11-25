@@ -61,9 +61,7 @@ In this stage, I used T-SQL and MS SQL Server Management Studio to query the tab
 In this stage, I forwarded the results of the anaysis as csv files to the Sales & Marketing Department.
 
 ## Project DOcumentation
-In this stage, I documented the project by establishing the documentaion database *Business requests* which is dedicated to show and docuemnt each and every questionin every business request.
-\
-Project documentation is important for two reasons:
+In this stage, I documented the project by establishing the documentaion database *Business requests* which is dedicated to show and docuemnt each and every questionin every business request. Project documentation is important for two reasons:
 \
 1- To ensure and emphasize the job responsibilities and roles.
 \
