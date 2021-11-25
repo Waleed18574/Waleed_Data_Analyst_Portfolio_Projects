@@ -11,6 +11,7 @@ I have received a business request from the Sales & Marketing Department in Parc
   \
 2- __Data Preparation__:
   Transform the data as required and make sure it is ready for analysis.
+\
 3- __Data Analysis__:
   Write queries using T-SQL and use multiple condidtions and techniques to answer the business questions.
 4- __Findings Conveying__:
