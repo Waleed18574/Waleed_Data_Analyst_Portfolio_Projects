@@ -46,6 +46,7 @@ In this stage, I:
 - Examined the relationship between the tables.
 - Made sure that each column is of a suitable dat type.
 - Made sure that the data fit the analysis.
+![](Images/Entity Relationship Diagram.PNG)
 
 ## Data Analysis
 In this stage, I used T-SQL and MS SQL Server Management Studio to query the tables and answer the business question. I used various techniques for the analysis including:
