@@ -32,7 +32,7 @@ __Programming Language__: T-SQL
 
 
 ### Business Request
-![](MS_SQL_Server_project/SQL_Server_Project_2_Querying_Parch_&_Posey_Database/Images/Entity Relationship Diagram.PNG)
+![](Images/Sales_&_Marketing_Business_Requests.PNG)
 
 
 
