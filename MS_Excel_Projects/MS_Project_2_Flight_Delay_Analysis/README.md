@@ -16,9 +16,14 @@ To evaluate the performance of the airports in term of flight delay management, 
 
 ## Project Tasks Sumamry
 In this project I:
+\
 1- Cleaned and transformed the data.
+\
 2- Built pivot-tables.
+\
 3- Used DAX formulas to calculate business metrics.
+\
 4- Consturcted a self-service dynamic and interactive dashboard to show the delay management metrics. The vsiaul of the dashboard included __line chart__, __cards__, __column chart__, __bar charts__.
+\
 5- Suggested recommendation for the CEO to decrease the risk of the delays.
 
