@@ -23,7 +23,15 @@ In this project I:
 \
 3- Used DAX formulas to calculate business metrics.
 \
-4- Consturcted a self-service dynamic and interactive dashboard to show the delay management metrics. The vsiaul of the dashboard included __line chart__, __cards__, __column chart__, __bar charts__.
+4- Consturcted a self-service dynamic and interactive dashboard to show the delay management metrics. The vsiauls of the dashboard included:
+\
+    __line chart__
+\
+    __cards__
+\
+    __column chart__
+\
+    __bar charts__.
 \
 5- Suggested recommendation for the CEO to decrease the risk of the delays.
 
