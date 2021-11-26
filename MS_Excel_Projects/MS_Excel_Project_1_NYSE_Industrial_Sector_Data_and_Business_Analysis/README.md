@@ -10,7 +10,7 @@ validation, VLOOKUP).
 
 - Analyinge and forecasting financial business metrics using Excel or Google Sheets.
 
-- visualizing of the business metric (Revenue) and using Excel charts to make financial model.
+- Visualizing of the business metric (Revenue) and using Excel charts to make financial model.
 
 
 ## Tasks Summary
