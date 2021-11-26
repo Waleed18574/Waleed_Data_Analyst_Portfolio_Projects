@@ -1,7 +1,7 @@
 # NYSE Business & Data Analysis
 
 ## Introduction
-In this project I analyzed real life data from New York Stock Market Exchange.  I drew a subset of a large dataset provide by Kaggle on [New York Stock Exchange](https://www.kaggle.com/dgawlik/nyse) that contaiins historical financial data. Next, I went through the process of calculating summary statistics, drawing an inference from the statistics, calculating business metrics and using models to forecast future growth prospects for the industrial sector companies. I performed that by:
+In this project I analyzed real life data from New York Stock Market Exchange.  I drew a subset of a large dataset provide by Kaggle on [New York Stock Exchange](https://www.kaggle.com/dgawlik/nyse) that contains historical financial data. Next, I went through the process of calculating summary statistics, drawing an inference from the statistics, calculating business metrics and using models to forecast future growth prospects for the industrial sector companies. I performed that by:
 
 - Interpreting the measures of central tendency and spread (mean, median, standard deviation, range.)
 
