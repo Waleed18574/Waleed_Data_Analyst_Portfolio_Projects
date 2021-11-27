@@ -6,7 +6,7 @@ The objective of this project was to build a self-service daynamic and interacti
 
 ## Tasks Summary
 In this project, I:
-/
+
 1- Imported the 2 text files into the #power_query and organized and combined them into 1 table named (SalesTextFiles) and automated the process of future import (updating).
 
 2- Loaded the new table into the #data_model from the power query.
