@@ -17,7 +17,6 @@ In this project, I:
 5- Visualized the values of the metrics in a range of Excel charts.
 /
 6- Arranged the Excel charts in a self-service dynamic and interactive dashboard
-/
-/
+
 
 
