@@ -1,7 +1,7 @@
 # Car Sales Revenue Analysis
 ![](Images/dashboard.PNG)
 ## Introduction
-The objective of this project was to build a self-service daynamic and interactive dashboard that provides a break down of the revenue for a cal sales company.I statrted this project an Excel table that included the names and regions of the managers (sales-persons) and 2 text (tsv) files that included the sales records for automobiles companies btw. 2015 and 2016. 
+The objective of this project was to build a self-service daynamic and interactive dashboard that provides a break down of the revenue for a cal sales company.I statrted this project an Excel table that included the names and regions of the managers (sales-persons) and 2 text (tsv) files that included the sales records for automobiles companies btw. the year 2015 and 2016 and then add the records for 2017. 
 
 
 ## Tasks Summary
