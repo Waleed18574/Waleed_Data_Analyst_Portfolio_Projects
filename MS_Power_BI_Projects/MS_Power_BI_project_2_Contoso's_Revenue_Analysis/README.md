@@ -12,8 +12,8 @@ Thisproject is for analyzing and comparing the actual revenue vs. the projected 
 3 csv files and 1 html file.
 
 ## Tasks:
-1- Connected Power BI to the data sources and loaded the data into the Power Query.
-2- Cleaned and organized the data by performing multiple tasks including appending and merging tables.
-3- Calculated business metrics using DAX.
+1- Connected Power BI to the data sources and loaded the data into the Power Query.\
+2- Cleaned and organized the data by performing multiple tasks including appending and merging tables.\
+3- Calculated business metrics using DAX.\
 4- Visualized the analysis findings in variety of dynamic visuals.
 
