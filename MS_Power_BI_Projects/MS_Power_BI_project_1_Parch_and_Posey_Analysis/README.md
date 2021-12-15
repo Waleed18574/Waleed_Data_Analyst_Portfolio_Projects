@@ -6,7 +6,7 @@ This project for analyzing the revnue of Parch & Posey's which an imaginary comp
 
 ## Objectives:
 1- To show the __total revenue__ and __total quantity Sold__.\
-2- To show the __revenue timeline_.\
+2- To show the __revenue timeline__.\
 3- To show the __top 10 accounts in term of Revenue__.\
 4- To show a __revenue break down__ by __Channle__, __Paper Type__ and __Region__.\
 5- To the __top 22 sales representatives__ in term of revenue.
