@@ -18,8 +18,8 @@ This project for analyzing the revnue of Parch & Posey's which an imaginary comp
 
 ## Tasks:
 In this project, I \
-1- Loaded the csv files into the Power BI.
-2- Cleaned and organized the data.
-3- Built a multi-tables data model.
-4- Used DAX to calculated business measures.
+1- Loaded the csv files into the Power BI.\
+2- Cleaned and organized the data.\
+3- Built a multi-tables data model.\
+4- Used DAX to calculated business measures.\
 5- Built a self-service dynamic and responsive dashboard.
