@@ -1,3 +1,3 @@
 # HR Data Analysis
-![](Assets/General Dashboard.PNG)
+![](Assets/General.PNG)
 
