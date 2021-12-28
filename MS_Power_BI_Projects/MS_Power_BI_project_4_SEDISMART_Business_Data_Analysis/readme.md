@@ -20,15 +20,15 @@ In this stage I cleaned and munged the data extracted and also added a calendar 
 
 __Data Modeling__\
 In this stage, I connect the tables in the data model.\
-![](aasets/data model.PNG)
+![](assets/data model.PNG)
 
 __Data Analysis__\
 In this satge, I calculated the business metrics using DAX ad visualized the findings ofthe analysis using various visuals.
-![](aasets/DAX.PNG)
+![](assets/DAX.PNG)
 
 __Findings Presentations__\
 To share the findings with the satff and requested the report, I designed 4 self-service interactive dashboards.
-![](aasets/1_CEO_Regional_Report_Request.PNG)
-![](aasets/2_Marketing&Sales_Business_Request.PNG)
-![](aasets/3_HR_Business_Request.PNG)
-![](aasets/4_Financial_Business_Reuest.PNG)
+![](assets/1_CEO_Regional_Report_Request.PNG)
+![](assets/2_Marketing&Sales_Business_Request.PNG)
+![](assets/3_HR_Business_Request.PNG)
+![](assets/4_Financial_Business_Reuest.PNG)
