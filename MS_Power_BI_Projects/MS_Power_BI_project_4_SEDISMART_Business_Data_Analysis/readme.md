@@ -1,4 +1,5 @@
 # SEDISMART Revenue Analysis
+![](1-CEO_Regional_Report_Request.PNG)
 ## Introduction
 **Scenario:**\
 SEDISMART is an imaginary office furniture &equipment company and the management has a meeting soon in which they discuss the business-status. I have received 3 business requests 
