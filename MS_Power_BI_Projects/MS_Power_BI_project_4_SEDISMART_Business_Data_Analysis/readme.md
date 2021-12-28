@@ -20,7 +20,7 @@ In this stage I cleaned and munged the data extracted and also added a calendar 
 
 __Data Modeling__\
 In this stage, I connect the tables in the data model.\
-![](assets/data model.PNG)
+![](assets/data_model.PNG)
 
 __Data Analysis__\
 In this satge, I calculated the business metrics using DAX ad visualized the findings ofthe analysis using various visuals.
