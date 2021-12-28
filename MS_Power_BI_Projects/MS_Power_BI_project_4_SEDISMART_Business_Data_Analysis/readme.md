@@ -28,7 +28,7 @@ In this satge, I calculated the business metrics using DAX ad visualized the fin
 
 __Findings Presentations__\
 To share the findings with the satff and requested the report, I designed 4 self-service interactive dashboards.
-![](assets/1_CEO_Regional_Report_Request.PNG)
-![](assets/2_Marketing&Sales_Business_Request.PNG)
-![](assets/3_HR_Business_Request.PNG)
-![](assets/4_Financial_Business_Reuest.PNG)
+![CEO Regional Revue Performance](assets/1_CEO_Regional_Report_Request.PNG)
+![Sales &Marketing Report](assets/2_Marketing&Sales_Business_Request.PNG)
+![HR Report](assets/3_HR_Business_Request.PNG)
+![Financial Department Report](assets/4_Financial_Business_Reuest.PNG)
