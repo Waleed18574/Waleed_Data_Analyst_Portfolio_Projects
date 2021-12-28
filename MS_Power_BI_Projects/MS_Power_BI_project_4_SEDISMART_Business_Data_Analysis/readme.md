@@ -1,5 +1,5 @@
 # SEDISMART Revenue Analysis
-![](1-CEO_Regional_Report_Request.PNG)
+
 ## Introduction
 **Scenario:**\
 SEDISMART is an imaginary office furniture &equipment company and the management has a meeting soon in which they discuss the business-status. I have received 3 business requests 
@@ -20,15 +20,15 @@ In this stage I cleaned and munged the data extracted and also added a calendar 
 
 __Data Modeling__\
 In this stage, I connect the tables in the data model.\
-![](data model.PNG)
+![](aasets/data model.PNG)
 
 __Data Analysis__\
 In this satge, I calculated the business metrics using DAX ad visualized the findings ofthe analysis using various visuals.
-![](DAX.PNG)
+![](aasets/DAX.PNG)
 
 __Findings Presentations__\
 To share the findings with the satff and requested the report, I designed 4 self-service interactive dashboards.
-![](1_CEO_Regional_Report_Request.PNG)
-![](2_Marketing&Sales_Business_Request.PNG)
-![](3_HR_Business_Request.PNG)
-![](4_Financial_Business_Reuest.PNG)
+![](aasets/1_CEO_Regional_Report_Request.PNG)
+![](aasets/2_Marketing&Sales_Business_Request.PNG)
+![](aasets/3_HR_Business_Request.PNG)
+![](aasets/4_Financial_Business_Reuest.PNG)
