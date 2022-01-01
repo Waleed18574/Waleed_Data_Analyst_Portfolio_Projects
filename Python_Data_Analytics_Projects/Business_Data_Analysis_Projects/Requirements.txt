@@ -1,0 +1,4 @@
+pythn 3.6
+pandas
+matplotlib
+seaborn
