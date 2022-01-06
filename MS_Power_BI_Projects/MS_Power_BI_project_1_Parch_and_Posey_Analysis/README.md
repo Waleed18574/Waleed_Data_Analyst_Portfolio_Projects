@@ -1,6 +1,6 @@
 # Parch & Posey Revenue Analysis
 
-(Images/Parch&PoseyDashboard.PNG)
+![](Images/Parch&PoseyDashboardUpdated.PNG)
 ## Intro:
 This project for analyzing the revnue of Parch & Posey's which an imaginary company that sells 3 types of papers. To coduct this project, I downloaded the dataset as a PosgreSQL database file, then I used PG Admin to query and extract the tables as a csv files. Next, I loaded the dataset into Power BI built the dashboard which is supposed to address the Sales & Marketing Department business questions
 
