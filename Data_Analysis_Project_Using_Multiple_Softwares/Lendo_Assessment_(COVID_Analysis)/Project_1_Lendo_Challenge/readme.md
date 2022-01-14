@@ -16,7 +16,7 @@ In this task, I was given a dataset of airlines flights in the United States inc
 length, and type of delays over several months. I was asked to provide recommendations to CEO of the Startup 
 company based on the data analysis.
 
-# Task 3: Spreadsheets Data Analysis Skills
+## Task 3: Spreadsheets Data Analysis Skills
 In this task, I was insturcted to show my Excel Data Analysis skills by performaing a set of 8 tasks through 
 which I used combination of spreadsheet skills such as using vlookups, pivot-tables, index & match, formating 
 and condiditonal formating, sumifs, countifs...etc
