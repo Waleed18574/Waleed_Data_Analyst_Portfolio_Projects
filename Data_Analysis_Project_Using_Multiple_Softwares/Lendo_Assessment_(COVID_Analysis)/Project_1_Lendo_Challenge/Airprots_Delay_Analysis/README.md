@@ -3,7 +3,7 @@ I had applied for for a data analyst position in one of the largest startup comp
 
   
 In this project, I was provided with a data set of airports delaysrecords containing more than 20 columns and more than 4200 records. 
-I was instructed to provide recommendations for the CEO/management of an ariline in term of the potential delays the airline may encounter.
+I was instructed to provide recommendations for the CEO/management of an airline in term of the potential delays the airline may encounter.
 I had submitted this task using MS Excel, however, yesterday, I redid it using MS Power BI to showcase my skills in both softwares.
 
 ![](assets/lendo.PNG)
