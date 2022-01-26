@@ -1,5 +1,5 @@
 
-# Lendo  Test
+# Lendo  Assessment Test
 
 Months ago, I had applied for one of the largest startup companies in the Gulf. Next, I received an email from them with a test instructions to prove my skills as a data analyst. The test consisted of 3 parts and this project is the third part of that test.
 
