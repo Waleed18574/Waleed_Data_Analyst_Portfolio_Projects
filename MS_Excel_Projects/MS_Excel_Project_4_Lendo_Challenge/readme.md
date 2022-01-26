@@ -5,5 +5,7 @@ Months ago, I had applied for one of the largest startup companies in the Gulf. 
 
 For this project, I was provided with Excel file containing containing multiple sheets and 8 instructions to transform data with those sheets. 
 The question of this project stated that only 4 instructions were mandatory, while the rest were optional. I solved/excuted ALL of them. To achieve that,
-I used a combination of functions and techneques such as sumifs, countifs, vlookups, , index, match, pivot-tables.
+I used a combination of functions and techneques such as such as sumifs, countifs, vlookups, , index, match, data validation, conditional formatting, grouping and pivot-tables. 
+
+.
 
