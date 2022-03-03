@@ -4,8 +4,7 @@ Months ago, I had applied for for a data analyst position in one of the largest 
 
 In this project, I was given a dataset of COVID infections in multiple countries and was instructed to show which countries have done better over time. The requirement was to use 1 tool for the analysis, however, I performed the task and built a dashboard in Excel, Power BI and Tableau to show my skills in the 3 softwares.
 
-#![](assets/1.PNG)
-#![](assets/2.0.PNG)
+
 ![](assets/2.1.PNG)
 ![](assets/3.PNG)
 ![](assets/4.PNG)
