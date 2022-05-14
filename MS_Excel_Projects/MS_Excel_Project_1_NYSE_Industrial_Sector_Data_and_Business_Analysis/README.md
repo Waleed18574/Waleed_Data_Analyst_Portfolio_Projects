@@ -8,7 +8,7 @@ In this project I analyzed real life data from New York Stock Market Exchange.  
 - Using a combination of Excel or Google Sheets functions (e.g., IF statements, INDEX and MATCH, calculating descriptive statistics with the IF statement, drop downs, data 
 validation, VLOOKUP).
 
-- Analyinge and forecasting financial business metrics using Excel or Google Sheets.
+- Analyzing and forecasting financial business metrics using Excel or Google Sheets.
 
 - Visualizing of the business metric (Revenue) and using Excel charts to make financial model.
 
