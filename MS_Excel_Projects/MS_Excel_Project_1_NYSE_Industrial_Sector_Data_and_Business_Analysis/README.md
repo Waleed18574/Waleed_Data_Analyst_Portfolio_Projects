@@ -16,7 +16,7 @@ validation, VLOOKUP).
 ## Tasks Summary
 
 ### Tasks 1 Summary (Providing general statistics metrics and frequecy distributions for the revenue of the years 2012 to 2016)
-- Divided the indsutrial sector dataset based on the year of ending.
+- Divided the industrial sector dataset based on the year of ending.
 - performed a statistical analysis on each year's dataset to show the mean, median, standard deviation. Variance, kurtosis, skewness, range, maximum, minimum, first qurtile, third quartile, range and inter-quartile range.
 - Visualized the distribution of the datasets in the  form of histogram and box-plot to show the difference in distribtuion between the dataset.
 ![](Images/task_1_a.PNG)
