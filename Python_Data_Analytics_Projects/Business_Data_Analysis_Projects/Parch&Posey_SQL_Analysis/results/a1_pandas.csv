@@ -1,0 +1,350 @@
+,region,sales_person,account
+0,Midwest,Carletta Kosinski,Danaher
+1,Midwest,Carletta Kosinski,Dollar General
+2,Midwest,Carletta Kosinski,International Paper
+3,Midwest,Carletta Kosinski,McDonald's
+4,Midwest,Carletta Kosinski,Northrop Grumman
+5,Midwest,Charles Bidwell,Altria Group
+6,Midwest,Charles Bidwell,Arrow Electronics
+7,Midwest,Charles Bidwell,Emerson Electric
+8,Midwest,Charles Bidwell,Qualcomm
+9,Midwest,Charles Bidwell,Starbucks
+10,Midwest,Charles Bidwell,Tenet Healthcare
+11,Midwest,Charles Bidwell,Whirlpool
+12,Midwest,Chau Rowles,Abbott Laboratories
+13,Midwest,Chau Rowles,Alcoa
+14,Midwest,Chau Rowles,Halliburton
+15,Midwest,Chau Rowles,Staples
+16,Midwest,Chau Rowles,Tech Data
+17,Midwest,Cliff Meints,Aflac
+18,Midwest,Cliff Meints,Eli Lilly
+19,Midwest,Cliff Meints,Paccar
+20,Midwest,Cliff Meints,Raytheon
+21,Midwest,Cliff Meints,Sears Holdings
+22,Midwest,Cliff Meints,Union Pacific
+23,Midwest,Cliff Meints,Xerox
+24,Midwest,Cordell Rieder,Centene
+25,Midwest,Cordell Rieder,Duke Energy
+26,Midwest,Cordell Rieder,Kohl's
+27,Midwest,Delilah Krum,Amgen
+28,Midwest,Delilah Krum,AutoNation
+29,Midwest,Delilah Krum,Capital One Financial
+30,Midwest,Delilah Krum,Cummins
+31,Midwest,Delilah Krum,Hartford Financial Services Group
+32,Midwest,Delilah Krum,Kimberly-Clark
+33,Midwest,Delilah Krum,Plains GP Holdings
+34,Midwest,Delilah Krum,Southwest Airlines
+35,Midwest,Julie Starr,AbbVie
+36,Midwest,Julie Starr,Lear
+37,Midwest,Julie Starr,ManpowerGroup
+38,Midwest,Julie Starr,USAA
+39,Midwest,Kathleen Lalonde,EMC
+40,Midwest,Kathleen Lalonde,Kraft Heinz
+41,Midwest,Kathleen Lalonde,Penske Automotive Group
+42,Midwest,Kathleen Lalonde,US Foods Holding
+43,Midwest,Sherlene Wetherington,Community Health Systems
+44,Midwest,Sherlene Wetherington,Progressive
+45,Midwest,Sherlene Wetherington,Rite Aid
+46,Midwest,Sherlene Wetherington,Time Warner Cable
+47,Midwest,Sherlene Wetherington,U.S. Bancorp
+48,Northeast,Akilah Drinkard,Comcast
+49,Northeast,Akilah Drinkard,Fannie Mae
+50,Northeast,Akilah Drinkard,FedEx
+51,Northeast,Ayesha Monica,AmerisourceBergen
+52,Northeast,Ayesha Monica,Anthem
+53,Northeast,Ayesha Monica,Cisco Systems
+54,Northeast,Cara Clarke,Bank of America Corp.
+55,Northeast,Cara Clarke,Lowe's
+56,Northeast,Cara Clarke,McKesson
+57,Northeast,Cara Clarke,Northwestern Mutual
+58,Northeast,Debroah Wardle,Cardinal Health
+59,Northeast,Debroah Wardle,Enterprise Products Partners
+60,Northeast,Debroah Wardle,HCA Holdings
+61,Northeast,Debroah Wardle,Honeywell International
+62,Northeast,Debroah Wardle,Marathon Petroleum
+63,Northeast,Debroah Wardle,Morgan Stanley
+64,Northeast,Elba Felder,AIG
+65,Northeast,Elba Felder,CVS Health
+66,Northeast,Elba Felder,Deere
+67,Northeast,Elba Felder,Exelon
+68,Northeast,Elba Felder,Home Depot
+69,Northeast,Elba Felder,Twenty-First Century Fox
+70,Northeast,Elna Condello,Avnet
+71,Northeast,Elna Condello,Liberty Mutual Insurance Group
+72,Northeast,Elna Condello,Massachusetts Mutual Life Insurance
+73,Northeast,Elna Condello,MetLife
+74,Northeast,Elna Condello,New York Life Insurance
+75,Northeast,Elna Condello,Travelers Cos.
+76,Northeast,Elna Condello,Walgreens Boots Alliance
+77,Northeast,Ernestine Pickron,Disney
+78,Northeast,Ernestine Pickron,General Electric
+79,Northeast,Ernestine Pickron,Valero Energy
+80,Northeast,Eugena Esser,Best Buy
+81,Northeast,Eugena Esser,Delta Air Lines
+82,Northeast,Eugena Esser,Energy Transfer Equity
+83,Northeast,Eugena Esser,Exxon Mobil
+84,Northeast,Eugena Esser,J.P. Morgan Chase
+85,Northeast,Eugena Esser,PepsiCo
+86,Northeast,Gianna Dossey,Archer Daniels Midland
+87,Northeast,Gianna Dossey,Coca-Cola
+88,Northeast,Gianna Dossey,HP
+89,Northeast,Gianna Dossey,Macy's
+90,Northeast,Gianna Dossey,Oracle
+91,Northeast,Gianna Dossey,Philip Morris International
+92,Northeast,Julia Behrman,Allstate
+93,Northeast,Julia Behrman,American Express
+94,Northeast,Julia Behrman,Chevron
+95,Northeast,Julia Behrman,Cigna
+96,Northeast,Julia Behrman,Dow Chemical
+97,Northeast,Julia Behrman,INTL FCStone
+98,Northeast,Julia Behrman,Publix Super Markets
+99,Northeast,Julia Behrman,State Farm Insurance Cos.
+100,Northeast,Lavera Oles,DuPont
+101,Northeast,Lavera Oles,UPS
+102,Northeast,Lavera Oles,UnitedHealth Group
+103,Northeast,Lavera Oles,Wells Fargo
+104,Northeast,Michel Averette,Apple
+105,Northeast,Michel Averette,Boeing
+106,Northeast,Michel Averette,Merck
+107,Northeast,Michel Averette,Nationwide
+108,Northeast,Michel Averette,Tesoro
+109,Northeast,Michel Averette,Tyson Foods
+110,Northeast,Michel Averette,United Technologies
+111,Northeast,Nakesha Renn,Amazon.com
+112,Northeast,Nakesha Renn,Johnson & Johnson
+113,Northeast,Nakesha Renn,Lockheed Martin
+114,Northeast,Necole Victory,AT&T
+115,Northeast,Necole Victory,ConocoPhillips
+116,Northeast,Necole Victory,Humana
+117,Northeast,Necole Victory,IBM
+118,Northeast,Necole Victory,Mondelez International
+119,Northeast,Necole Victory,World Fuel Services
+120,Northeast,Renetta Carew,Aetna
+121,Northeast,Renetta Carew,Berkshire Hathaway
+122,Northeast,Renetta Carew,Microsoft
+123,Northeast,Renetta Carew,Time Warner
+124,Northeast,Retha Sears,Pfizer
+125,Northeast,Retha Sears,Procter & Gamble
+126,Northeast,Retha Sears,Verizon
+127,Northeast,Samuel Racine,American Airlines Group
+128,Northeast,Samuel Racine,Express Scripts Holding
+129,Northeast,Samuel Racine,Freddie Mac
+130,Northeast,Samuel Racine,Ingram Micro
+131,Northeast,Samuel Racine,Johnson Controls
+132,Northeast,Samuel Racine,Walmart
+133,Northeast,Shawanda Selke,Citigroup
+134,Northeast,Shawanda Selke,General Motors
+135,Northeast,Shawanda Selke,Prudential Financial
+136,Northeast,Sibyl Lauria,3M
+137,Northeast,Sibyl Lauria,Ford Motor
+138,Northeast,Sibyl Lauria,Intel
+139,Northeast,Sibyl Lauria,Phillips 66
+140,Northeast,Sibyl Lauria,TJX
+141,Northeast,Silvana Virden,Caterpillar
+142,Northeast,Silvana Virden,Kroger
+143,Northeast,Silvana Virden,Target
+144,Northeast,Tia Amato,Alphabet
+145,Northeast,Tia Amato,CHS
+146,Northeast,Tia Amato,Costco
+147,Northeast,Tia Amato,General Dynamics
+148,Northeast,Tia Amato,Gilead Sciences
+149,Northeast,Tia Amato,Sysco
+150,Northeast,Tia Amato,TIAA
+151,Northeast,Tia Amato,United Continental Holdings
+152,Southeast,Babette Soukup,CBS
+153,Southeast,Babette Soukup,Chesapeake Energy
+154,Southeast,Babette Soukup,Genuine Parts
+155,Southeast,Babette Soukup,Micron Technology
+156,Southeast,Babette Soukup,NRG Energy
+157,Southeast,Babette Soukup,NextEra Energy
+158,Southeast,Babette Soukup,Viacom
+159,Southeast,Calvin Ollison,AES
+160,Southeast,Calvin Ollison,Bed Bath & Beyond
+161,Southeast,Calvin Ollison,CDW
+162,Southeast,Calvin Ollison,Computer Sciences
+163,Southeast,Calvin Ollison,DaVita HealthCare Partners
+164,Southeast,Calvin Ollison,Dollar Tree
+165,Southeast,Calvin Ollison,Dominion Resources
+166,Southeast,Calvin Ollison,J.C. Penney
+167,Southeast,Calvin Ollison,Loews
+168,Southeast,Calvin Ollison,Nucor
+169,Southeast,Calvin Ollison,Supervalu
+170,Southeast,Derrick Boggess,Health Net
+171,Southeast,Derrick Boggess,Marsh & McLennan
+172,Southeast,Derrick Boggess,National Oilwell Varco
+173,Southeast,Derrick Boggess,PPG Industries
+174,Southeast,Derrick Boggess,Southern
+175,Southeast,Derrick Boggess,Synnex
+176,Southeast,Derrick Boggess,WellCare Health Plans
+177,Southeast,Dorotha Seawell,Cognizant Technology Solutions
+178,Southeast,Dorotha Seawell,DISH Network
+179,Southeast,Dorotha Seawell,Facebook
+180,Southeast,Dorotha Seawell,Gap
+181,Southeast,Dorotha Seawell,Jacobs Engineering Group
+182,Southeast,Dorotha Seawell,Kellogg
+183,Southeast,Dorotha Seawell,NGL Energy Partners
+184,Southeast,Dorotha Seawell,Nordstrom
+185,Southeast,Dorotha Seawell,Occidental Petroleum
+186,Southeast,Dorotha Seawell,PBF Energy
+187,Southeast,Dorotha Seawell,Toys 'R' Us
+188,Southeast,Earlie Schleusner,ADP
+189,Southeast,Earlie Schleusner,American Electric Power
+190,Southeast,Earlie Schleusner,Edison International
+191,Southeast,Earlie Schleusner,First Data
+192,Southeast,Earlie Schleusner,Fluor
+193,Southeast,Earlie Schleusner,Freeport-McMoRan
+194,Southeast,Earlie Schleusner,Land O'Lakes
+195,Southeast,Earlie Schleusner,Lincoln National
+196,Southeast,Earlie Schleusner,Marriott International
+197,Southeast,Earlie Schleusner,Performance Food Group
+198,Southeast,Earlie Schleusner,United States Steel
+199,Southeast,Maren Musto,Baker Hughes
+200,Southeast,Maren Musto,Bristol-Myers Squibb
+201,Southeast,Maren Musto,C.H. Robinson Worldwide
+202,Southeast,Maren Musto,FirstEnergy
+203,Southeast,Maren Musto,Guardian Life Ins. Co. of America
+204,Southeast,Maren Musto,Jabil Circuit
+205,Southeast,Maren Musto,Kinder Morgan
+206,Southeast,Maren Musto,Las Vegas Sands
+207,Southeast,Maren Musto,Principal Financial
+208,Southeast,Maren Musto,VF
+209,Southeast,Maren Musto,Yum Brands
+210,Southeast,Moon Torian,AECOM
+211,Southeast,Moon Torian,BlackRock
+212,Southeast,Moon Torian,ConAgra Foods
+213,Southeast,Moon Torian,Devon Energy
+214,Southeast,Moon Torian,Ecolab
+215,Southeast,Moon Torian,Entergy
+216,Southeast,Moon Torian,L-3 Communications
+217,Southeast,Moon Torian,Office Depot
+218,Southeast,Moon Torian,Omnicom Group
+219,Southeast,Moon Torian,PG&E Corp.
+220,Southeast,Nelle Meaux,Colgate-Palmolive
+221,Southeast,Nelle Meaux,HollyFrontier
+222,Southeast,Nelle Meaux,Icahn Enterprises
+223,Southeast,Nelle Meaux,Parker-Hannifin
+224,Southeast,Nelle Meaux,Thermo Fisher Scientific
+225,Southeast,Nelle Meaux,Visa
+226,Southeast,Nelle Meaux,Western Digital
+227,Southeast,Saran Ram,CSX
+228,Southeast,Saran Ram,CarMax
+229,Southeast,Saran Ram,Consolidated Edison
+230,Southeast,Saran Ram,General Mills
+231,Southeast,Saran Ram,Illinois Tool Works
+232,Southeast,Saran Ram,L Brands
+233,Southeast,Saran Ram,Molina Healthcare
+234,Southeast,Saran Ram,PNC Financial Services Group
+235,Southeast,Saran Ram,Waste Management
+236,Southeast,Saran Ram,Whole Foods Market
+237,Southeast,Vernita Plump,Ameriprise Financial
+238,Southeast,Vernita Plump,Aramark
+239,Southeast,Vernita Plump,Bank of New York Mellon Corp.
+240,Southeast,Vernita Plump,CenturyLink
+241,Southeast,Vernita Plump,Farmers Insurance Exchange
+242,Southeast,Vernita Plump,Goodyear Tire & Rubber
+243,Southeast,Vernita Plump,Leucadia National
+244,Southeast,Vernita Plump,Monsanto
+245,Southeast,Vernita Plump,Ross Stores
+246,Southeast,Vernita Plump,Texas Instruments
+247,Southeast,Vernita Plump,Textron
+248,West,Arica Stoltzfus,Applied Materials
+249,West,Arica Stoltzfus,Assurant
+250,West,Arica Stoltzfus,Avis Budget Group
+251,West,Arica Stoltzfus,Celgene
+252,West,Arica Stoltzfus,EOG Resources
+253,West,Arica Stoltzfus,Level 3 Communications
+254,West,Arica Stoltzfus,R.R. Donnelley & Sons
+255,West,Arica Stoltzfus,Univar
+256,West,Arica Stoltzfus,Unum Group
+257,West,Arica Stoltzfus,W.W. Grainger
+258,West,Brandie Riva,Charter Communications
+259,West,Brandie Riva,Dean Foods
+260,West,Brandie Riva,GameStop
+261,West,Brandie Riva,Mohawk Industries
+262,West,Brandie Riva,Praxair
+263,West,Brandie Riva,Precision Castparts
+264,West,Brandie Riva,Public Service Enterprise Group
+265,West,Brandie Riva,Republic Services
+266,West,Brandie Riva,Tenneco
+267,West,Brandie Riva,Voya Financial
+268,West,Dawna Agnew,AutoZone
+269,West,Dawna Agnew,Autoliv
+270,West,Dawna Agnew,Ball
+271,West,Dawna Agnew,D.R. Horton
+272,West,Dawna Agnew,HD Supply Holdings
+273,West,Dawna Agnew,Norfolk Southern
+274,West,Dawna Agnew,Pacific Life
+275,West,Dawna Agnew,Universal Health Services
+276,West,Dawna Agnew,eBay
+277,West,Elwood Shutt,Baxter International
+278,West,Elwood Shutt,Broadcom
+279,West,Elwood Shutt,Eastman Chemical
+280,West,Elwood Shutt,Genworth Financial
+281,West,Elwood Shutt,Global Partners
+282,West,Elwood Shutt,Mosaic
+283,West,Elwood Shutt,Reynolds American
+284,West,Elwood Shutt,Stanley Black & Decker
+285,West,Elwood Shutt,Veritiv
+286,West,Georgianna Chisholm,Air Products & Chemicals
+287,West,Georgianna Chisholm,Ally Financial
+288,West,Georgianna Chisholm,Anadarko Petroleum
+289,West,Georgianna Chisholm,Becton Dickinson
+290,West,Georgianna Chisholm,BorgWarner
+291,West,Georgianna Chisholm,Franklin Resources
+292,West,Georgianna Chisholm,Henry Schein
+293,West,Georgianna Chisholm,Jarden
+294,West,Georgianna Chisholm,KKR
+295,West,Georgianna Chisholm,Murphy USA
+296,West,Georgianna Chisholm,Newmont Mining
+297,West,Georgianna Chisholm,O'Reilly Automotive
+298,West,Georgianna Chisholm,Priceline Group
+299,West,Georgianna Chisholm,SpartanNash
+300,West,Georgianna Chisholm,Thrivent Financial for Lutherans
+301,West,Hilma Busick,American Family Insurance Group
+302,West,Hilma Busick,Crown Holdings
+303,West,Hilma Busick,DTE Energy
+304,West,Hilma Busick,Hilton Worldwide Holdings
+305,West,Hilma Busick,Hormel Foods
+306,West,Hilma Busick,Liberty Interactive
+307,West,Hilma Busick,MasterCard
+308,West,Hilma Busick,Peter Kiewit Sons'
+309,West,Hilma Busick,State Street Corp.
+310,West,Hilma Busick,SunTrust Banks
+311,West,Marquetta Laycock,Advance Auto Parts
+312,West,Marquetta Laycock,BB&T Corp.
+313,West,Marquetta Laycock,Biogen
+314,West,Marquetta Laycock,Campbell Soup
+315,West,Marquetta Laycock,Corning
+316,West,Marquetta Laycock,Discover Financial Services
+317,West,Marquetta Laycock,Reliance Steel & Aluminum
+318,West,Marquetta Laycock,Sherwin-Williams
+319,West,Marquetta Laycock,United Natural Foods
+320,West,Maryanna Fiorentino,Core-Mark Holding
+321,West,Maryanna Fiorentino,Group 1 Automotive
+322,West,Maryanna Fiorentino,Huntsman
+323,West,Maryanna Fiorentino,Lithia Motors
+324,West,Maryanna Fiorentino,News Corp.
+325,West,Maryanna Fiorentino,Oneok
+326,West,Maryanna Fiorentino,PPL
+327,West,Maryanna Fiorentino,PayPal Holdings
+328,West,Maryanna Fiorentino,Sonic Automotive
+329,West,Maryanna Fiorentino,Stryker
+330,West,Maryanna Fiorentino,Xcel Energy
+331,West,Micha Woodford,CBRE Group
+332,West,Micha Woodford,CST Brands
+333,West,Micha Woodford,Cameron International
+334,West,Micha Woodford,Eversource Energy
+335,West,Micha Woodford,Hertz Global Holdings
+336,West,Micha Woodford,Laboratory Corp. of America
+337,West,Micha Woodford,MGM Resorts International
+338,West,Micha Woodford,Masco
+339,West,Micha Woodford,PVH
+340,West,Micha Woodford,Sempra Energy
+341,West,Micha Woodford,Western Refining
+342,West,Soraya Fulton,Estee Lauder
+343,West,Soraya Fulton,Fidelity National Financial
+344,West,Soraya Fulton,Lennar
+345,West,Soraya Fulton,Navistar International
+346,West,Soraya Fulton,Owens & Minor
+347,West,Soraya Fulton,Reinsurance Group of America
+348,West,Soraya Fulton,WestRock
